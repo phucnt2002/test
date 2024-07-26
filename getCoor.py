@@ -31,3 +31,4 @@ with open(output_file_path, 'w', encoding='utf-8') as file:
 print("Coordinates extracted and saved to output.txt")
 dev
 dev_phuc_nt
+dev_du_nt
