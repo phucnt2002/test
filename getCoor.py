@@ -29,4 +29,3 @@ with open(output_file_path, 'w', encoding='utf-8') as file:
     file.write(']\n')
 
 print("Coordinates extracted and saved to output.txt")
-du_nt
