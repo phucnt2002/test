@@ -29,10 +29,4 @@ with open(output_file_path, 'w', encoding='utf-8') as file:
     file.write(']\n')
 
 print("Coordinates extracted and saved to output.txt")
-<<<<<<< HEAD
-phuc_nt
-=======
-phuc_n
-
-this code from phucnt
->>>>>>> phuc_nt
+dev
