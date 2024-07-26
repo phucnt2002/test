@@ -32,3 +32,5 @@ print("Coordinates extracted and saved to output.txt")
 dev
 dev_phuc_nt
 dev_du_nt
+
+edit
